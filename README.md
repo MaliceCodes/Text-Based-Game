@@ -1,5 +1,5 @@
 # Text-Based-Game
-Just a sample text game that I had to make for my class. Not the best, but it's definitely worth the practice.
+Just a sample text game that I had to make for a class project. Not the best, but it's definitely worth the practice.
 
 The entire point of this code was to create a game where the user has to go 
 through multiple rooms to find items and escape without dying to an entity.
